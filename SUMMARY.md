@@ -7,6 +7,7 @@
   * [chapter 1](ji-suan-ji-wang-luo/chapter-1.md)
   * [chapter 2](ji-suan-ji-wang-luo/chapter-2.md)
   * [chapter 3](ji-suan-ji-wang-luo/chapter-3.md)
+  * [chapter 4](ji-suan-ji-wang-luo/chapter-5.md)
 * [操作系统](cao-zuo-xi-tong/README.md)
   * [charter 1](cao-zuo-xi-tong/charter-1.md)
 * [计算机组成原理](ji-suan-ji-zu-cheng-yuan-li/README.md)

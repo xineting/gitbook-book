@@ -14,7 +14,7 @@
     * [2.0-基本概念](ji-suan-ji-wang-luo/di-er-zhang-wu-li-ceng/2.0-ji-ben-gai-nian.md)
     * [2.1-通信基础](ji-suan-ji-wang-luo/di-er-zhang-wu-li-ceng/2.1-tong-xin-ji-chu.md)
     * [2.2-奈氏准则和香农定理](ji-suan-ji-wang-luo/di-er-zhang-wu-li-ceng/2.2.md)
-    * [Untitled](ji-suan-ji-wang-luo/di-er-zhang-wu-li-ceng/untitled-2.md)
+    * [2.3-传输介质及分类](ji-suan-ji-wang-luo/di-er-zhang-wu-li-ceng/untitled-2.md)
     * [Untitled](ji-suan-ji-wang-luo/di-er-zhang-wu-li-ceng/untitled-3.md)
 * [操作系统](cao-zuo-xi-tong/README.md)
   * [charter 1](cao-zuo-xi-tong/charter-1.md)

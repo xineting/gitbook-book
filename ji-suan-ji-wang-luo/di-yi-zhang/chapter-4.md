@@ -32,7 +32,7 @@ PCI：协议控制信息：控制协议操作的信息。
 
 PDU：协议数据单元，对等层次传输的数据单元。
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ### 5. 分层结构
 
@@ -107,7 +107,7 @@ PDU：协议数据单元，对等层次传输的数据单元。
 
 ### 6. OSI和TCP/IP参考模型
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 ### 
 
@@ -125,9 +125,9 @@ PDU：协议数据单元，对等层次传输的数据单元。
 * OSI先出现，参考模型先于协议发明，不偏向特定协议
 * TCP/IP设计之初就考虑到异构网互联的问题，将ip作为重要层次
 * 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ### 8. 五层参考模型
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 

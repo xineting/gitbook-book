@@ -20,6 +20,7 @@
   * [第三章-数据链路层](ji-suan-ji-wang-luo/di-san-zhang-shu-ju-lian-lu-ceng/README.md)
     * [3-1--数据链路层](ji-suan-ji-wang-luo/di-san-zhang-shu-ju-lian-lu-ceng/31-shu-ju-lian-lu-ceng.md)
     * [3-2--组帧](ji-suan-ji-wang-luo/di-san-zhang-shu-ju-lian-lu-ceng/32-zu-zhen.md)
+    * [3-3--差错控制](ji-suan-ji-wang-luo/di-san-zhang-shu-ju-lian-lu-ceng/33-cha-cuo-kong-zhi.md)
 * [操作系统](cao-zuo-xi-tong/README.md)
   * [charter 1](cao-zuo-xi-tong/charter-1.md)
 * [计算机组成原理](ji-suan-ji-zu-cheng-yuan-li/README.md)

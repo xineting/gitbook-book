@@ -6,7 +6,7 @@
 
 * 建立新的结点分配内存空间，将新结点插入到当前链表的表头
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 ```c
 LinkList CreatList1(LinkList &L){ 
@@ -34,7 +34,7 @@ LinkList CreatList1(LinkList &L){
 
 * 建立新的结点分配内存空间，将新结点插入到当前链表的表尾,需要增加一个指向表尾元素的尾指针
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 ```cpp
 LinkList CreatList2(LinkList &L){ 
@@ -54,5 +54,11 @@ LinkList CreatList2(LinkList &L){
 }
 ```
 
+![](../../.gitbook/assets/image%20%2811%29.png)
 
+
+
+
+
+尾插法建立单链表，读入数据的顺序与 生成的链表中元素 的顺序是相同的
 

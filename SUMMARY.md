@@ -9,6 +9,7 @@
   * [第二章-线性表](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/README.md)
     * [2-1-1-逻辑结构](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/211-luo-ji-jie-gou.md)
     * [2-2-1-顺序存储结构](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/221-shun-xu-cun-chu-jie-gou.md)
+    * [2-2-2-顺序存储的操作](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/222-shun-xu-cun-chu-de-cao-zuo.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)
   * [第一章-计算机网络的体系结构](ji-suan-ji-wang-luo/di-yi-zhang/README.md)
     * [1.1 计算机网络的概述](ji-suan-ji-wang-luo/di-yi-zhang/chapter-1.md)

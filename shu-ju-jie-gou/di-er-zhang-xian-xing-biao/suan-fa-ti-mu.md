@@ -48,5 +48,5 @@ void Converse(int R[],int p){
 
 3-已知一个整数序列A=\(a0,a1,a2,a3,..,an-1\),其中0&lt;sub&gt;2&lt;/sub&gt;
 
-
+o<sub>2</sub>
 

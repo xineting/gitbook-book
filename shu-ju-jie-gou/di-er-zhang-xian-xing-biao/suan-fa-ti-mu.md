@@ -46,5 +46,31 @@ void Converse(int R[],int p){
 }
 ```
 
-3-已知一个整数序列A=\(a<sub>0</sub>,a<sub>1</sub>,a<sub>2</sub>,a<sub>3</sub>,..,a<sub>n-1</sub>\),
+12-已知一个整数序列A=\(a0,a1,a2,a3,..,an-1\),其中0&lt;=ai&lt;n\(0&lt;=i&lt;n\)。若存在ap1=ap2=...=apm=x且m》n/2（0&lt;=pk&lt;n,1&lt;=k&lt;=m）,则称x为A的主元素。例如（0,5,5,3,5,7,5,5）,则称5为主元素，假设A中的n个元素保存在一个一位数组中，请设计一个高效的算法，找出A的主元素，输出A的出元素，若没有，则输出-1。
+
+```c
+int Majority(int A[],int n){
+  int i,c,count=1;
+  c=A[0];
+  for (i=1;i<n;i++){
+    if(A[i]==c)
+      count++;
+    else
+      if(count>0)
+        count--;
+      else{
+        c=A[i];
+        count=1;
+      }
+  }
+  if(count>0){
+    for(i=count=0;i<n;i++){
+      if(A[i]==c)
+        count++
+    }
+    if(count>n/2)return c;
+    else return -1;
+  }
+}
+```
 

@@ -46,5 +46,5 @@ void Converse(int R[],int p){
 }
 ```
 
-3-已知一个整数序列A=\(a0,a1,a2,a3,..,a<sub>n-1</sub>\),
+3-已知一个整数序列A=\(a<sub>0</sub>,a<sub>1</sub>,a<sub>2</sub>,a<sub>3</sub>,..,a<sub>n-1</sub>\),
 

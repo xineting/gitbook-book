@@ -26,3 +26,23 @@ void SearchInsert(SqList &l,ElemType e){
 }
 ```
 
+10-循环左移
+
+将n\(n&gt;1\)个整数存放到一位数组R里。试设计一个在时间和空间两方面都尽可能高效的算法，将R中保存的序列循环左移p个位置。
+
+```c
+void Reverse(int R[],int left,int right){
+    int i,tmp;
+    for(i=0;i<(right-left+1)/2;i++){
+        tmp = R[left+i];
+        R[left+i]=R[right-i];
+        R[right-i]=tmp;
+    }
+}
+void Converse(int R[],int p){
+    Reverse(R,0,p-1);
+    Reverse(R,p,n-1);
+    Reverse(R,0,n-1);
+}
+```
+

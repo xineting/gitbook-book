@@ -15,6 +15,7 @@
     * [2-3-3-单链表操作](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/233-dan-lian-biao-cao-zuo.md)
     * [2-3-4-双链表](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/234-shuang-lian-biao.md)
     * [2-3-5-循环链表](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/235-xun-huan-lian-biao.md)
+    * [算法题目](shu-ju-jie-gou/di-er-zhang-xian-xing-biao/suan-fa-ti-mu.md)
   * [第三章-栈和队列](shu-ju-jie-gou/di-san-zhang-zhan-he-dui-lie/README.md)
     * [3-1-栈](shu-ju-jie-gou/di-san-zhang-zhan-he-dui-lie/31-zhan.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)

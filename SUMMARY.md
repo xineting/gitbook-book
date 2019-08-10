@@ -1,6 +1,9 @@
 # Table of contents
 
 * [summary](README.md)
+* [803-计算机基础综合](803-ji-suan-ji-ji-chu-zong-he/README.md)
+  * [一、 考查目标&考试形式和试卷结构](803-ji-suan-ji-ji-chu-zong-he/yi-kao-cha-mu-biao-kao-shi-xing-shi-he-shi-juan-jie-gou.md)
+  * [考查内容](803-ji-suan-ji-ji-chu-zong-he/kao-cha-nei-rong.md)
 * [数据结构](shu-ju-jie-gou/README.md)
   * [第一章-数据结构的基本概念](shu-ju-jie-gou/diyizhang/README.md)
     * [1-1-基本概念](shu-ju-jie-gou/diyizhang/11-ji-ben-gai-nian.md)

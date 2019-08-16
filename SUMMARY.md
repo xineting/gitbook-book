@@ -22,6 +22,8 @@
   * [第三章-栈和队列](shu-ju-jie-gou/di-san-zhang-zhan-he-dui-lie/README.md)
     * [3-1-栈](shu-ju-jie-gou/di-san-zhang-zhan-he-dui-lie/31-zhan.md)
     * [3-2-队列](shu-ju-jie-gou/di-san-zhang-zhan-he-dui-lie/32-dui-lie.md)
+    * [3-3-栈的应用](shu-ju-jie-gou/di-san-zhang-zhan-he-dui-lie/33-zhan-de-ying-yong.md)
+    * [3-4-特殊矩阵和压缩矩阵](shu-ju-jie-gou/di-san-zhang-zhan-he-dui-lie/34-te-shu-ju-zhen-he-ya-suo-ju-zhen.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)
   * [第一章-计算机网络的体系结构](ji-suan-ji-wang-luo/di-yi-zhang/README.md)
     * [1.1 计算机网络的概述](ji-suan-ji-wang-luo/di-yi-zhang/chapter-1.md)

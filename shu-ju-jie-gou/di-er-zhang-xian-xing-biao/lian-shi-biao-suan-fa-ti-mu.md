@@ -129,3 +129,74 @@ void MergeList(LinkList &La,LinkList &Lb){
 }
 ```
 
+14-设A和B是两个单链表，（带头结点），其中元素递增有序，设计一个算从A和B中公共元素产生单链表C，要求不破坏A和B的结点。
+
+```c
+void Get_Common(LinkList A,LinkList B){
+    Lnode *p=A->next;
+    Lnode *q=B->next;
+    Lnode *r,*s;
+    LinkList C=(LinkList)malloc(sizeof(Lnode));
+    r=C;
+    while(p&&q){
+        if(p->data==q->data){
+            s=(Lnode*)malloc(sizeof(Lnode));
+            s->data=p->data;
+            r->next=s;
+            r=s;
+            p=p->next;
+            q=q->nexr;
+        }
+        else if(p->data>q->data){
+            q=q->next;
+        }
+        else{
+            p=p->next;
+        }            
+    }
+    r->next=NULL;
+    return C;
+}
+```
+
+17-设计一个算法判断带头结点的循环双链表是否对称
+
+```c
+bool Symetry(DlinkList L){
+    Dnode *p=L->next,*q=L->prior;
+    while(p->data==q->data)
+        if(p==q||p->next==q) 
+            return true;
+        else{
+            p=p->next;
+            q=q->prior;
+        }
+    return false;
+}
+```
+
+19-设带有头结点的循环单链表，其结点值为正整数，设计一个算法，反复找出单链表中结点值最小的结点并输出，然后删除该结点，直到链表为空，再删除头结点
+
+```c
+void Del_All(LinkList &L){
+    Lnode *p,*pre,*minp,*minpre;
+    while(L->next!=L){
+        pre=L;
+        minpre=L;
+        p=L->next;
+        minp=L->next;
+        while(p!=L){
+            if(p->data<minp->data){
+                minp=p
+                minpre=pre;
+            }
+            pre=p;
+            p=p->next;
+        }
+        printf("%d\n",minp->data);
+        minpre->next=minp->next;
+        free(minp);
+    }
+}
+```
+

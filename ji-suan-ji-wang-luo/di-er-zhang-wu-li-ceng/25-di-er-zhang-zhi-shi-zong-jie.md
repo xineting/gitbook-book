@@ -2,5 +2,5 @@
 
 
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 

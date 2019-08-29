@@ -36,6 +36,7 @@
     * [4-3-2-二叉树的遍历2](shu-ju-jie-gou/di-si-zhang-shu/432-er-cha-shu-de-bian-li-2.md)
     * [4-4-树和森林](shu-ju-jie-gou/di-si-zhang-shu/untitled-2.md)
     * [4-5-二叉树的应用](shu-ju-jie-gou/di-si-zhang-shu/untitled-1-1.md)
+    * [算法](shu-ju-jie-gou/di-si-zhang-shu/suan-fa.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)
   * [第一章-计算机网络的体系结构](ji-suan-ji-wang-luo/di-yi-zhang/README.md)
     * [1.1 计算机网络的概述](ji-suan-ji-wang-luo/di-yi-zhang/chapter-1.md)

@@ -4,7 +4,7 @@
 
 > 数组是由n\(n≥1\)个相同类型的数据元素构成的有限序列，一个数组的所有元素在内存中占用一段连续的存储空间
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 对于二维数组而言，有两种映射方法:
 
@@ -12,20 +12,20 @@
 * 设二维数组的行下标与列下标的范围分别为\[l1，h1\]与\[l2，h2\] 
 * * 行优先:先行后列，先存储行号较小的元素，行号相等先存储列号较小的元素
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 * 设二维数组的行下标与列下标的范围分别为\[l1，h1\]与\[l2，h2\] 
 * 列优先:先列后行，先存储列号较小的元素，列号相等先存储行号较小的元素
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 
 
@@ -37,21 +37,21 @@
 
 > 对称矩阵:若一个n阶方阵A\[1...n\]\[1...n\]中的任一个元素ai,j，都有ai,j=aj,i\(1≤i，j≤n\)，则称其为对称矩阵。
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28114%29.png)
 
 * 对于n阶对称矩阵，上三角区所有元素和下三 角区对应元素相同，所以我们只需要存储对角线上的元素和下三角区的元素。
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 
 
@@ -59,16 +59,16 @@
 
 
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 * 存储思想
 * 与对称矩阵类似，不同之处在于存储完下三角区和主对角线上的元素之后，紧接着存储对角 线上方的常量一次，故可以将下三角矩阵A\[1...n\]\[1...n\]压缩存储在B\[n\(n+1\)/2+1\]中。
 
-![](../../.gitbook/assets/image%20%28127%29.png)
+![](../../.gitbook/assets/image%20%28131%29.png)
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28154%29.png)
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 
 
@@ -76,19 +76,19 @@
 
 
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 存储思想:将3条对角线上的元素按行优先方式存放在一维数组B中
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
-![](../../.gitbook/assets/image%20%28130%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 
-![](../../.gitbook/assets/image%20%28149%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 > 稀疏矩阵:矩阵中元素个数s相对于矩阵中非0元素个数t来说非常多，即s远大于t的矩阵 如果采用常规的存储办法存储稀疏矩阵，会浪费大量的存储空间。所以只存储非0的元素，但是非0元素分布又没有规律，所以光存储元素是不够的，还需要存储它的行列下标值
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
-![](../../.gitbook/assets/image%20%28158%29.png)
+![](../../.gitbook/assets/image%20%28164%29.png)
 

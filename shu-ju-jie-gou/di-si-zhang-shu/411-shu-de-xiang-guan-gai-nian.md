@@ -7,15 +7,15 @@
 > 1-有且仅有一个称为根的结点  
 > 2-当n&gt;1时，其余结点可分为m个互不相交的有限集合，其中每一个集合本身又是一棵树，并且成为根结点的子树。
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
-![](../../.gitbook/assets/image%20%2848%29.png)
-
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ![](../../.gitbook/assets/image%20%2862%29.png)
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
+
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 ## 树的性质
 

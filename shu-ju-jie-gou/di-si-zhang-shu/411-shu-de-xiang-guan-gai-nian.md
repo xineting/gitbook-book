@@ -11,11 +11,11 @@
 
 ![](../../.gitbook/assets/image%20%2848%29.png)
 
-![](../../.gitbook/assets/image%20%2860%29.png)
-
 ![](../../.gitbook/assets/image%20%2861%29.png)
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
+
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 ## 树的性质
 

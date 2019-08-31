@@ -74,7 +74,7 @@ void Create_BST(BiTree &T,KeyType str[],int n){
 
 ### 查找效率\(ASL\)
 
-![](../../.gitbook/assets/image%20%28172%29.png)
+![](../../.gitbook/assets/image%20%28173%29.png)
 
 ## 平衡二叉树（AVL树）
 
@@ -98,7 +98,7 @@ N\[h\]=N\[h-1\]+N\[h-2\]+1
 
 ### 平衡二叉树的判断
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
 ```c
 void Judge_AVL(BiTree &bt,int &balance,int &h){
@@ -136,7 +136,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 * 调整方法：右旋操作：将A的左孩子B代替A，将A结点称为B的右孩子，
 * B的原右子树作为A的左子树。
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
 #### 
 
@@ -151,7 +151,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 例子：
 
-![](../../.gitbook/assets/image%20%2894%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 #### LR平衡旋转
 
@@ -159,7 +159,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 * 先左旋后右旋操作
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28155%29.png)
 
 #### RL平衡旋转（原理相同）
 
@@ -167,23 +167,35 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 例子
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28117%29.png)
 
 
 
 ## 哈夫曼树
 
-### 带权路径长度
+* 带权路径长度：路径上所经过边的个数
+* 权：结点被赋予的数值
+* 树的带权路径长度（WPL）：树中所有叶结点的带权路径长度之和称为该树的带权路径长度
 
-路径上所经过边的个数
-
-带权：结点被赋予的数值
-
-树的带权路径长度：WPL
+在含有N个带权叶子结点的二叉树中，其中带权路径长度WPL最小的二叉树称为哈夫曼树，也称最优二叉树。
 
 ### 哈夫曼树的构造算法
 
+> 给定N个权值分别为w1,w2,w3,w4...wn的结点。通过哈夫曼算法可以构造出最优二叉树，算法的描述如下：
+
+1. 将这N个结点分别作为N棵仅含一个结点的二叉树，构成森林F。
+2. 构造一个新结点，并从F中选取两棵根结点权值最小的树作为新结点的左、右子树，并且将新结点的权置为左右子树上根结点的权值之和。
+3. 从F中删除刚才选出的那两棵树，同时将得到的树加入F中。
+4. 重复2）和3），直至F中只剩下一棵树为止。
+
 ### 哈夫曼树的重要性质
+
+1. 每个初始结点都会成为叶结点，双支结点都为新生成的结点
+2. 权值越大离根结点越近，反正权值越小离根结点越远
+3. 哈夫曼树中没有结点的度为1
+4. n个叶子结点的哈夫曼树的结点总数为2n-1，其中度为2的结点数为n-1.
+
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ## 哈夫曼编码
 

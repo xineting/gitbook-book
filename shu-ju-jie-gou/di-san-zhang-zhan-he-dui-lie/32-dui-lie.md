@@ -95,7 +95,7 @@ EnQueue(LinkQueue &Q，ElemType x){
 }
 ```
 
-![](../../.gitbook/assets/image%20%28129%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
 * 出队:出队就是头结点的后继结点出队，然后将头结点的后继改为它后面的结点。
 

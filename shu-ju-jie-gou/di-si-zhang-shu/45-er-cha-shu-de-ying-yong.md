@@ -74,7 +74,7 @@ void Create_BST(BiTree &T,KeyType str[],int n){
 
 ### 查找效率\(ASL\)
 
-![](../../.gitbook/assets/image%20%28171%29.png)
+![](../../.gitbook/assets/image%20%28172%29.png)
 
 ## 平衡二叉树（AVL树）
 
@@ -98,7 +98,7 @@ N\[h\]=N\[h-1\]+N\[h-2\]+1
 
 ### 平衡二叉树的判断
 
-![](../../.gitbook/assets/image%20%28156%29.png)
+![](../../.gitbook/assets/image%20%28157%29.png)
 
 ```c
 void Judge_AVL(BiTree &bt,int &balance,int &h){
@@ -140,20 +140,36 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 #### 
 
-#### RR平衡旋转
+#### RR平衡旋转（左单螺旋）
 
 > 在结点A的右子树的右孩子上插入了新结点
 
-* 调整方法：右旋操作：将A的左孩子B代替A，将A结点称为B的右孩子，
-* B的原右子树作为A的左子树。
+* 调整方法：左旋操作：将A的右孩子B代替A，将A结点称为B的左孩子，
+* B的原左子树作为A的右子树。
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+例子：
 
 ![](../../.gitbook/assets/image%20%2894%29.png)
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+#### LR平衡旋转
+
+> 在结点A的左结点的右子树插入了新结点，
+
+* 先左旋后右旋操作
+
+![](../../.gitbook/assets/image%20%28154%29.png)
+
+#### RL平衡旋转（原理相同）
+
+* 先右旋后左旋。
+
+例子
+
+![](../../.gitbook/assets/image%20%28116%29.png)
+
+
 
 ## 哈夫曼树
 

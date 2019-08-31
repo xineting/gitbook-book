@@ -53,5 +53,5 @@ typedef struct{          //静态链表结构类型的定义
 | 5 |  |  |
 | 6 | c | 3 |
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 

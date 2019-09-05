@@ -5,19 +5,19 @@
 1. 传输介质也称传输媒体，他就是数据传输系统中在发送设备和接收设备之间的物理通路。
 2. 传输媒体并不是物理层，他在五物理层下边
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 ### 2.3-2-- 双绞线
 
 ###  
 
-![](../../.gitbook/assets/image%20%28122%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 
 双绞线价格便宜，是最常用的传输介质之一，在局域网和电话网中普遍使用。模拟传输和数字传输都可以使用双绞线。
 
 ### 2.3-3--同轴电缆
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/image%20%28115%29.png)
 
 抗干扰性更强
 
@@ -25,15 +25,15 @@
 
  **主要构成**
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 **单模光纤与多模光纤**
 
-![](../../.gitbook/assets/image%20%28146%29.png)
+![](../../.gitbook/assets/image%20%28161%29.png)
 
 **区别**
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 * 传输损耗小
 * 抗雷电和电磁干扰好
@@ -73,5 +73,5 @@
 
 ### 2.3-8--总结
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 

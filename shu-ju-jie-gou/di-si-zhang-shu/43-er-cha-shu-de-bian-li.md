@@ -106,7 +106,7 @@ void PostOrder(){
 
 ## 5-由遍历序列构造二叉树
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 
 
@@ -117,7 +117,7 @@ void PostOrder(){
 * 在先序中确定两部分的结点，并且两部分的结点分别为左子树的根和右子树的根。
 * 在子树中递归重复该过程，便能确定一颗二叉树。
 * * 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 
 

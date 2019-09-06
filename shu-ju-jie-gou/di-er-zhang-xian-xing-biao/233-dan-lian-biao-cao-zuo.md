@@ -5,7 +5,7 @@
 * 在单链表中从第一个结点出发，顺指针next域逐个往下搜索，直到找到第i个结点为止
 * 否则返回最后一个结点指针域NULL
 
-![](../../.gitbook/assets/image%20%28188%29.png)
+![](../../.gitbook/assets/image%20%28190%29.png)
 
 ```cpp
 LNode * GetElem(LinkList L,int i){ 
@@ -37,7 +37,7 @@ LNode *LocateElem(LinkList L,ElemType e){
 //如果p为NULL，返回的就是尾节点，并没有判断是否为我们所要查找的值e
 ```
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](../../.gitbook/assets/image%20%28113%29.png)
 
 ## 1.3.插入
 
@@ -78,7 +78,7 @@ Lnode * InsertElem(LinkList L,Lnode *s,int i){
 * 3.p指向结点的后继指向被删除结点的后继3⃣️p-&gt;next=q-&gt;next
 * 4.释放删除结点a1                                           4⃣️free\(q\);
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28182%29.png)
 
 
 

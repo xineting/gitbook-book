@@ -2,7 +2,7 @@
 
 按某条搜索路径访问树中的每个结点，树的每个结点被访问一次，而且只访问一次。
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ## 1-先序遍历
 
@@ -106,7 +106,7 @@ void PostOrder(){
 
 ## 5-由遍历序列构造二叉树
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 
 
@@ -117,7 +117,7 @@ void PostOrder(){
 * 在先序中确定两部分的结点，并且两部分的结点分别为左子树的根和右子树的根。
 * 在子树中递归重复该过程，便能确定一颗二叉树。
 * * 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 
 

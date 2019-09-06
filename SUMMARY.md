@@ -40,7 +40,7 @@
     * [算法](shu-ju-jie-gou/di-si-zhang-shu/suan-fa.md)
   * [第五章-图](shu-ju-jie-gou/di-wu-zhang-tu/README.md)
     * [5-1-图的基本概念](shu-ju-jie-gou/di-wu-zhang-tu/untitled.md)
-    * [Untitled](shu-ju-jie-gou/di-wu-zhang-tu/untitled-1.md)
+    * [5-2-图的存储结构](shu-ju-jie-gou/di-wu-zhang-tu/untitled-1.md)
     * [Untitled](shu-ju-jie-gou/di-wu-zhang-tu/untitled-1-1.md)
     * [Untitled](shu-ju-jie-gou/di-wu-zhang-tu/untitled-2.md)
     * [Untitled](shu-ju-jie-gou/di-wu-zhang-tu/untitled-4.md)

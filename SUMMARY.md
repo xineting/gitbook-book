@@ -46,7 +46,7 @@
     * [5-5-图的应用-最小生成树](shu-ju-jie-gou/di-wu-zhang-tu/untitled-4.md)
     * [5-6-图的应用-最短路径](shu-ju-jie-gou/di-wu-zhang-tu/untitled-3.md)
     * [5-7-图的应用-拓扑排序](shu-ju-jie-gou/di-wu-zhang-tu/untitled-5.md)
-    * [Untitled](shu-ju-jie-gou/di-wu-zhang-tu/untitled-6.md)
+    * [5-7-图的应用-关键路径](shu-ju-jie-gou/di-wu-zhang-tu/untitled-6.md)
   * [第六章-查找](shu-ju-jie-gou/di-liu-zhang-cha-zhao.md)
   * [第七章-排序](shu-ju-jie-gou/di-qi-zhang-pai-xu.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)

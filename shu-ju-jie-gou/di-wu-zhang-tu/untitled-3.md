@@ -24,9 +24,9 @@ path[] : 记录从最短路径中顶点的前驱顶点，即path[i]为v到vi最�
 * 修改此时从 v0 出发到集合V-S上任一顶点 vk 最短路径的长度: 若dist\[ j\]+arcs\[ j\]\[k\]&lt;dist\[k\] 则令dis\[k\]=dist\[ j\]+arcs\[ j\]\[k\]; path\[k\]=j;
 * 重复2\)、3\)操作n-1次，直到S中包含全部顶点;
 * 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 
 
@@ -34,9 +34,9 @@ path[] : 记录从最短路径中顶点的前驱顶点，即path[i]为v到vi最�
 
 ### Floyd算法
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![](../../.gitbook/assets/image%20%28218%29.png)
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 
 

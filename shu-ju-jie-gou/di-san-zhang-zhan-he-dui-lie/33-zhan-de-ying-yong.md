@@ -32,18 +32,18 @@ bool Check(char *str ){
 
 ## 2-表达式求值
 
-![](../../.gitbook/assets/image%20%28134%29.png)
+![](../../.gitbook/assets/image%20%28135%29.png)
 
 
 
 * 规则:从左到右扫描表达式的每个数字和符号，遇到数字就进栈，遇到 符号就将处于栈顶的两个数字出栈然后跟这个符号进行运算，最后将运 算结果进栈，直到最终获得结果
 * 以计算\(5+20+1\*3\)/14 为例 它的后缀表达式是5 20 + 1 3 \* + 14 /
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 如何将中缀表达式转换成后缀表达式?
 

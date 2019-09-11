@@ -32,7 +32,7 @@ bool Check(char *str ){
 
 ## 2-表达式求值
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28141%29.png)
 
 
 
@@ -43,7 +43,7 @@ bool Check(char *str ){
 
 
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 如何将中缀表达式转换成后缀表达式?
 

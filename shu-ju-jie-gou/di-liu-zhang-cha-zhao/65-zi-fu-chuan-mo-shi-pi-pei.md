@@ -1,4 +1,4 @@
-# 6-5-串匹配算法-KMP算法\*
+# 6-5-串匹配算法-KMP算法
 
 ## 1-串的基本概念
 
@@ -43,7 +43,17 @@ O\(mn\)
 * 后缀：除第一个字符外，字符串的所有尾部子串 部分匹配值
 * 字符串前缀和后缀最长相等前后缀的长度
 * 
-![](../../.gitbook/assets/image%20%28244%29.png)
+![](../../.gitbook/assets/image%20%28245%29.png)
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28111%29.png)
+
+### 3-1-next数组构建方式
+
+![page60image20312048](blob:https://app.gitbook.com/87916263-1ab9-490b-99f1-5685a8a737b1)
+
+![](../../.gitbook/assets/image%20%2821%29.png)
+
+### 3-2-匹配方式
+
+![page60image20291088](blob:https://app.gitbook.com/bdfebd16-651a-4f89-9b20-265136d76b9b)
 

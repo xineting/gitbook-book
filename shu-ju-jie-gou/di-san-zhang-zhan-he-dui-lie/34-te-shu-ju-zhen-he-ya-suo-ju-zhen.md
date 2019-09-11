@@ -21,11 +21,11 @@
 * 设二维数组的行下标与列下标的范围分别为\[l1，h1\]与\[l2，h2\] 
 * 列优先:先列后行，先存储列号较小的元素，列号相等先存储行号较小的元素
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28155%29.png)
 
 ![](../../.gitbook/assets/image%20%2869%29.png)
 
-![](../../.gitbook/assets/image%20%28120%29.png)
+![](../../.gitbook/assets/image%20%28121%29.png)
 
 
 
@@ -37,7 +37,7 @@
 
 > 对称矩阵:若一个n阶方阵A\[1...n\]\[1...n\]中的任一个元素ai,j，都有ai,j=aj,i\(1≤i，j≤n\)，则称其为对称矩阵。
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 * 对于n阶对称矩阵，上三角区所有元素和下三 角区对应元素相同，所以我们只需要存储对角线上的元素和下三角区的元素。
 
@@ -45,13 +45,13 @@
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
 ![](../../.gitbook/assets/image%20%2826%29.png)
 
 ![](../../.gitbook/assets/image%20%2872%29.png)
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28148%29.png)
 
 
 
@@ -59,16 +59,16 @@
 
 
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28198%29.png)
 
 * 存储思想
 * 与对称矩阵类似，不同之处在于存储完下三角区和主对角线上的元素之后，紧接着存储对角 线上方的常量一次，故可以将下三角矩阵A\[1...n\]\[1...n\]压缩存储在B\[n\(n+1\)/2+1\]中。
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
-![](../../.gitbook/assets/image%20%28229%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28137%29.png)
 
 
 
@@ -76,19 +76,19 @@
 
 
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 存储思想:将3条对角线上的元素按行优先方式存放在一维数组B中
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
 
-![](../../.gitbook/assets/image%20%28200%29.png)
+![](../../.gitbook/assets/image%20%28203%29.png)
 
-![](../../.gitbook/assets/image%20%28228%29.png)
+![](../../.gitbook/assets/image%20%28233%29.png)
 
 > 稀疏矩阵:矩阵中元素个数s相对于矩阵中非0元素个数t来说非常多，即s远大于t的矩阵 如果采用常规的存储办法存储稀疏矩阵，会浪费大量的存储空间。所以只存储非0的元素，但是非0元素分布又没有规律，所以光存储元素是不够的，还需要存储它的行列下标值
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
-![](../../.gitbook/assets/image%20%28242%29.png)
+![](../../.gitbook/assets/image%20%28247%29.png)
 

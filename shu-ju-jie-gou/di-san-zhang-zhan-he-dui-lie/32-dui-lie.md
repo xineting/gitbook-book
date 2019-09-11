@@ -71,7 +71,7 @@ bool DeQueue(SqQueue &Q,ElemType &x){
 
 > 队列的链式存储结构，其实就是线性表的单链表，只不过需要加点限制，只能表尾插入元素，表头删除元素。为了方便操作，我们分别设置队头指针和队尾指针，队头指针指向头结点，队尾指针指向尾结点
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 ```c
 typedef struct{ //链式队列结点 
@@ -95,7 +95,7 @@ EnQueue(LinkQueue &Q，ElemType x){
 }
 ```
 
-![](../../.gitbook/assets/image%20%28186%29.png)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 * 出队:出队就是头结点的后继结点出队，然后将头结点的后继改为它后面的结点。
 

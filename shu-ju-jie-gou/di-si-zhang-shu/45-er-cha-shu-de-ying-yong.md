@@ -74,7 +74,7 @@ void Create_BST(BiTree &T,KeyType str[],int n){
 
 ### 查找效率\(ASL\)
 
-![](../../.gitbook/assets/image%20%28239%29.png)
+![](../../.gitbook/assets/image%20%28244%29.png)
 
 ## 平衡二叉树（AVL树）
 
@@ -98,7 +98,7 @@ N\[h\]=N\[h-1\]+N\[h-2\]+1
 
 ### 平衡二叉树的判断
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28225%29.png)
 
 ```c
 void Judge_AVL(BiTree &bt,int &balance,int &h){
@@ -136,7 +136,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 * 调整方法：右旋操作：将A的左孩子B代替A，将A结点称为B的右孩子，
 * B的原右子树作为A的左子树。
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 #### 
 
@@ -151,7 +151,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 例子：
 
-![](../../.gitbook/assets/image%20%28134%29.png)
+![](../../.gitbook/assets/image%20%28135%29.png)
 
 #### LR平衡旋转
 
@@ -159,7 +159,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 * 先左旋后右旋操作
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![](../../.gitbook/assets/image%20%28222%29.png)
 
 #### RL平衡旋转（原理相同）
 
@@ -167,7 +167,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 例子
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28170%29.png)
 
 
 
@@ -205,5 +205,5 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 利用哈夫曼算法构造哈夫曼树，权值为每个字母出现的次数。
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 

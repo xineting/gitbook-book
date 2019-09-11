@@ -21,9 +21,9 @@ int Search_Seq(SStable St,ElemType key){
 
 对关键字有序线性表进行顺序查找，查找失败时不一定要遍历整个线性表
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 ## 2-折半查找
 
@@ -56,12 +56,12 @@ int Binary_Search(SeqList L,ElemType key){
 
 > 又称索引顺序查找，它吸取了顺序查找和折半查找各自的优点， 既有动态结构，又适于快速查找。
 
-![](../../.gitbook/assets/image%20%28143%29.png)
+![](../../.gitbook/assets/image%20%28144%29.png)
 
 * 将查找表分为若干子块。块内的元素可以无序，但块间是有序的，对于所有块有第i块的最大关键字小于第i+1块的所 有记录的关键字。
 * 建立索引表，索引表中的每个元素含有各块的最大关键字和各块中的第一个元素的地址，索引表按关键字有序排列。
 * 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 

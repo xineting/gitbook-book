@@ -52,7 +52,7 @@
     * [6-2-顺序,折半,分块查找](shu-ju-jie-gou/di-liu-zhang-cha-zhao/62-shun-xu-cha-zhao-he-zhe-ban-cha-zhao.md)
     * [6-3-B树和B+树](shu-ju-jie-gou/di-liu-zhang-cha-zhao/62b-shu-he-b+-shu.md)
     * [6-4-散列表&&散列函数&&冲突处理](shu-ju-jie-gou/di-liu-zhang-cha-zhao/64-san-lie-biao.md)
-    * [6-5-字符串模式匹配](shu-ju-jie-gou/di-liu-zhang-cha-zhao/65-zi-fu-chuan-mo-shi-pi-pei.md)
+    * [6-5-串匹配算法-KMP算法\*](shu-ju-jie-gou/di-liu-zhang-cha-zhao/65-zi-fu-chuan-mo-shi-pi-pei.md)
     * [Untitled](shu-ju-jie-gou/di-liu-zhang-cha-zhao/untitled-3.md)
   * [第七章-排序](shu-ju-jie-gou/di-qi-zhang-pai-xu.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)

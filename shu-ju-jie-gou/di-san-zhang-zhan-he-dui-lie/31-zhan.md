@@ -80,7 +80,7 @@ bool Push(SqDoubleStack &S ，ElemType x，int stackNum){
 }
 ```
 
-![](../../.gitbook/assets/image%20%28107%29.png)
+![](../../.gitbook/assets/image%20%28108%29.png)
 
 ## 2-链式栈
 
@@ -129,5 +129,5 @@ bool Pop(LinkStack *S, ElemType&x){
 }
 ```
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 

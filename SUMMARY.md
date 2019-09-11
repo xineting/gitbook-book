@@ -50,7 +50,7 @@
   * [第六章-查找](shu-ju-jie-gou/di-liu-zhang-cha-zhao/README.md)
     * [6-1-查找的基本概念](shu-ju-jie-gou/di-liu-zhang-cha-zhao/61-cha-zhao-de-ji-ben-gai-nian.md)
     * [6-2-顺序,折半,分块查找](shu-ju-jie-gou/di-liu-zhang-cha-zhao/62-shun-xu-cha-zhao-he-zhe-ban-cha-zhao.md)
-    * [6-2-B树和B+树\*](shu-ju-jie-gou/di-liu-zhang-cha-zhao/62b-shu-he-b+-shu.md)
+    * [6-2-B树和B+树](shu-ju-jie-gou/di-liu-zhang-cha-zhao/62b-shu-he-b+-shu.md)
     * [6-4-散列表](shu-ju-jie-gou/di-liu-zhang-cha-zhao/64-san-lie-biao.md)
     * [6-5-字符串模式匹配](shu-ju-jie-gou/di-liu-zhang-cha-zhao/65-zi-fu-chuan-mo-shi-pi-pei.md)
     * [Untitled](shu-ju-jie-gou/di-liu-zhang-cha-zhao/untitled-3.md)

@@ -28,7 +28,7 @@ void DFS(Graph G,int v){
 }
 ```
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 ### 
 

@@ -58,7 +58,7 @@
     * [7-2-插入排序\*](shu-ju-jie-gou/di-qi-zhang-pai-xu/72-cha-ru-pai-xu.md)
     * [7-3-交换排序\*](shu-ju-jie-gou/di-qi-zhang-pai-xu/73-jiao-huan-pai-xu.md)
     * [7-4-选择排序\*](shu-ju-jie-gou/di-qi-zhang-pai-xu/74-xuan-ze-pai-xu.md)
-    * [7-5-归并排序和基数排序](shu-ju-jie-gou/di-qi-zhang-pai-xu/75-gui-bing-pai-xu-he-ji-shu-pai-xu.md)
+    * [7-5-归并排序和基数排序\*](shu-ju-jie-gou/di-qi-zhang-pai-xu/75-gui-bing-pai-xu-he-ji-shu-pai-xu.md)
     * [7-6-内部排序](shu-ju-jie-gou/di-qi-zhang-pai-xu/76-nei-bu-pai-xu.md)
     * [7-7-外部排序](shu-ju-jie-gou/di-qi-zhang-pai-xu/77-wai-bu-pai-xu.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)

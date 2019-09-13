@@ -17,7 +17,7 @@ void InsettSort(ElemType A[],int n){
 }
 ```
 
-稳定O\(n2\)
+稳定O\(n2\)，稳定，顺链
 
 ## 1-2-折半插入排序
 

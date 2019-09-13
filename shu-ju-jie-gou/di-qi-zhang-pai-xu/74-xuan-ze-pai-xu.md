@@ -24,6 +24,8 @@ void SelectSort(ElemType A[],int n){
 }
 ```
 
+不稳定，顺链
+
 ## 1-2-堆排序
 
 > 基本思想
@@ -55,7 +57,7 @@ void AdjustDown(ElemType A[], int k, int len){
 }
 ```
 
-不稳定
+不稳定，顺序存储（链式存储）
 
 O\(nlogn\)
 
@@ -68,4 +70,6 @@ void AdjustUp(){
 
 }
 ```
+
+
 

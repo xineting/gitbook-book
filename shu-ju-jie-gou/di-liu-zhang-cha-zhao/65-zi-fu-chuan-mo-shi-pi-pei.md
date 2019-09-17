@@ -43,15 +43,15 @@ O\(mn\)
 * 后缀：除第一个字符外，字符串的所有尾部子串 部分匹配值
 * 字符串前缀和后缀最长相等前后缀的长度
 * 
-![](../../.gitbook/assets/image%20%28254%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28125%29.png)
 
 ### 3-1-next数组构建方式
 
 ![page60image20312048](blob:https://app.gitbook.com/87916263-1ab9-490b-99f1-5685a8a737b1)
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 ### 3-2-匹配方式
 

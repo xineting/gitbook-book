@@ -82,5 +82,8 @@
 * [操作系统](cao-zuo-xi-tong/README.md)
   * [charter 1](cao-zuo-xi-tong/charter-1.md)
 * [计算机组成原理](ji-suan-ji-zu-cheng-yuan-li/README.md)
-  * [charter 1](ji-suan-ji-zu-cheng-yuan-li/charter-1.md)
+  * [第一章-计算机系统概述](ji-suan-ji-zu-cheng-yuan-li/charter-1/README.md)
+    * [1-1-计算机发展历程01](ji-suan-ji-zu-cheng-yuan-li/charter-1/11-ji-suan-ji-fa-zhan-li-cheng-01.md)
+    * [1-1-计算机发展历程02](ji-suan-ji-zu-cheng-yuan-li/charter-1/11-ji-suan-ji-fa-zhan-li-cheng-02.md)
+    * [1-1-计算机发展历程03](ji-suan-ji-zu-cheng-yuan-li/charter-1/11-ji-suan-ji-fa-zhan-li-cheng-03.md)
 

@@ -9,11 +9,11 @@
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-![](../../.gitbook/assets/image%20%28198%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 ```c
 typedef struct ThreadNode{
@@ -48,7 +48,7 @@ void InThread (ThreadTree &p,ThreadTree &pre){//第一开始传入的pre为NULL
 }//跳出循环时pre指针为最右结点
 ```
 
-![](../../.gitbook/assets/image%20%28198%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
 ```cpp
 void CreateThread(ThreadTree T){

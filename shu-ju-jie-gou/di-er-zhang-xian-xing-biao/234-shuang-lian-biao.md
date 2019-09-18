@@ -28,7 +28,7 @@
 * s-&gt;prior=p
 * p-&gt;next=s;
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 ## 1-3-删除
 

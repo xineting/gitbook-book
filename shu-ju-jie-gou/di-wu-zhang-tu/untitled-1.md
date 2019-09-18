@@ -6,19 +6,19 @@
 * 将G的顶点编号为 v1,v2,...,vn \(数组下标\)
 * 若&lt; vi , v j &gt;∈E，则A\[i\]\[ j\]=1，否则A\[i\]\[ j\]=0。
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 例子：
 
 * 有向图
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](../../.gitbook/assets/image%20%28148%29.png)
 
 对角线为0.
 
 * 无向图
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28229%29.png)
 
 关于对角对称
 
@@ -26,9 +26,9 @@
 
 * A^n的含义
 
-![](../../.gitbook/assets/image%20%28172%29.png)
+![](../../.gitbook/assets/image%20%28181%29.png)
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 ## 2-邻接表法
 
@@ -40,21 +40,21 @@
 边表（出边表）  
 采用链式存储，单链表中存放于一个顶点相邻的所有边，一个链表结点表示一条从该结点到链表结点顶点的边。
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28170%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28252%29.png)
+![](../../.gitbook/assets/image%20%28262%29.png)
 
 ## 3-基本操作
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 * InsertVertex\(G, x\) 在图G中插入顶点x
 * DeleteVertex\(G, x\)，从图G中删除顶点x
@@ -63,15 +63,15 @@
 * FirstNeighbor\(G, x\)或图不存在x，则返回-1。
 * NextNeighbor\(G, x\) 假设图G中顶点y是顶点x的一个邻接点，返回除y之外顶点x的下一 个邻接点的顶点号，若y是x的最后一个邻接点，则返回-1。
 * 
-![](../../.gitbook/assets/image%20%28214%29.png)
+![](../../.gitbook/assets/image%20%28223%29.png)
 
 ## 4-十字链表
 
 > 有向图的一种链式存储结构
 
-![](../../.gitbook/assets/image%20%28228%29.png)
+![](../../.gitbook/assets/image%20%28237%29.png)
 
-![](../../.gitbook/assets/image%20%28204%29.png)
+![](../../.gitbook/assets/image%20%28213%29.png)
 
 ```c
 #define MaxVertexNum 100
@@ -94,7 +94,7 @@ typedef struct {
 
 > 无向图的一种链式存储结构
 
-![](../../.gitbook/assets/image%20%28251%29.png)
+![](../../.gitbook/assets/image%20%28261%29.png)
 
 ```c
 #define MaxVertexNum 100

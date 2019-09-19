@@ -19,11 +19,11 @@
 * 重复1、2直到当前的DAG图为空或当前图中不存在无前驱的顶点为止。
 * 后一种情况说明图中有环。
 
-![](../../.gitbook/assets/image%20%28268%29.png)
+![](../../.gitbook/assets/image%20%28271%29.png)
 
-![](../../.gitbook/assets/image%20%28183%29.png)
+![](../../.gitbook/assets/image%20%28185%29.png)
 
-![](../../.gitbook/assets/image%20%28298%29.png)
+![](../../.gitbook/assets/image%20%28301%29.png)
 
 
 

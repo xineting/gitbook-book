@@ -6,19 +6,19 @@
 * 将G的顶点编号为 v1,v2,...,vn \(数组下标\)
 * 若&lt; vi , v j &gt;∈E，则A\[i\]\[ j\]=1，否则A\[i\]\[ j\]=0。
 
-![](../../.gitbook/assets/image%20%28170%29.png)
+![](../../.gitbook/assets/image%20%28172%29.png)
 
 例子：
 
 * 有向图
 
-![](../../.gitbook/assets/image%20%28155%29.png)
+![](../../.gitbook/assets/image%20%28157%29.png)
 
 对角线为0.
 
 * 无向图
 
-![](../../.gitbook/assets/image%20%28236%29.png)
+![](../../.gitbook/assets/image%20%28239%29.png)
 
 关于对角对称
 
@@ -26,9 +26,9 @@
 
 * A^n的含义
 
-![](../../.gitbook/assets/image%20%28188%29.png)
+![](../../.gitbook/assets/image%20%28190%29.png)
 
-![](../../.gitbook/assets/image%20%2884%29.png)
+![](../../.gitbook/assets/image%20%2885%29.png)
 
 ## 2-邻接表法
 
@@ -40,19 +40,19 @@
 边表（出边表）  
 采用链式存储，单链表中存放于一个顶点相邻的所有边，一个链表结点表示一条从该结点到链表结点顶点的边。
 
-![](../../.gitbook/assets/image%20%28177%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28273%29.png)
 
 ## 3-基本操作
 
-![](../../.gitbook/assets/image%20%28169%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
 ![](../../.gitbook/assets/image%20%2826%29.png)
 
@@ -63,15 +63,15 @@
 * FirstNeighbor\(G, x\)或图不存在x，则返回-1。
 * NextNeighbor\(G, x\) 假设图G中顶点y是顶点x的一个邻接点，返回除y之外顶点x的下一 个邻接点的顶点号，若y是x的最后一个邻接点，则返回-1。
 * 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28233%29.png)
 
 ## 4-十字链表
 
 > 有向图的一种链式存储结构
 
-![](../../.gitbook/assets/image%20%28244%29.png)
+![](../../.gitbook/assets/image%20%28247%29.png)
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28223%29.png)
 
 ```c
 #define MaxVertexNum 100
@@ -94,7 +94,7 @@ typedef struct {
 
 > 无向图的一种链式存储结构
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28272%29.png)
 
 ```c
 #define MaxVertexNum 100

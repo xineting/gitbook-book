@@ -74,7 +74,7 @@
     * [1-6-小结](ji-suan-ji-zu-cheng-yuan-li/charter-1/untitled.md)
   * [第二章-数据的表示和运算](ji-suan-ji-zu-cheng-yuan-li/untitled/README.md)
     * [2-1-数制的表示与方法](ji-suan-ji-zu-cheng-yuan-li/untitled/21-shu-zhi-de-biao-shi-yu-fang-fa.md)
-    * [Untitled](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled-4.md)
+    * [2-2-定点数的表示和运算](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled-4.md)
     * [Untitled](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled-3.md)
     * [Untitled](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled-2.md)
     * [Untitled](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled.md)

@@ -14,15 +14,15 @@
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+![](../../.gitbook/assets/image%20%28121%29.png)
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
-![](../../.gitbook/assets/image%20%28301%29.png)
+![](../../.gitbook/assets/image%20%28297%29.png)
 
 关键路径不一定只有1条，只有缩短包含在所有关键路径中的关键活动才能缩短工期！
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 

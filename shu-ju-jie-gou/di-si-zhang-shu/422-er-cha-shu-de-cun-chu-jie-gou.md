@@ -4,7 +4,7 @@
 
 > 二叉树的顺序存储结构就是用一组地址连续的存储单元依次自上而下、自左至右存储完全 二叉树上的结点元素。
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 ## 链式存储
 
@@ -16,7 +16,7 @@ typedef struct BiTNode{
 //二叉树结点结构
 ```
 
-![](../../.gitbook/assets/image%20%28234%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 含有n个结点的二叉链表中，有n+1个空链域。即2n-（n-1）。
 

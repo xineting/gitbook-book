@@ -1,4 +1,4 @@
 # 1.5 第一章知识总结
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 

@@ -19,11 +19,11 @@
 * 重复1、2直到当前的DAG图为空或当前图中不存在无前驱的顶点为止。
 * 后一种情况说明图中有环。
 
-![](../../.gitbook/assets/image%20%28287%29.png)
+![](../../.gitbook/assets/image%20%28292%29.png)
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28201%29.png)
 
-![](../../.gitbook/assets/image%20%28318%29.png)
+![](../../.gitbook/assets/image%20%28325%29.png)
 
 
 
@@ -53,5 +53,5 @@ bool TopologicalSort(Graph G){
 
 若邻接矩阵为三角矩阵，则存在拓扑排序;反之不一定成立。
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 

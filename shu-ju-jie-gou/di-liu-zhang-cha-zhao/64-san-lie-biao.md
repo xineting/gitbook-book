@@ -18,7 +18,7 @@
 
 方法简单，不会产生冲突，若关键字分布不连续，则会浪费空间。
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](../../.gitbook/assets/image%20%28317%29.png)
 
 方法并不常见
 
@@ -28,11 +28,11 @@
 
 选好p是关键，可以减少冲突的可能
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 ### 1-3-数字分析法
 
-![](../../.gitbook/assets/image%20%28239%29.png)
+![](../../.gitbook/assets/image%20%28244%29.png)
 
 适用于关键字已知的集合，若更换关键字则需要重新构造散列函数。
 
@@ -60,19 +60,19 @@
 
 ### 1-1开放定址法
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
-![](../../.gitbook/assets/image%20%28229%29.png)
+![](../../.gitbook/assets/image%20%28233%29.png)
 
-![](../../.gitbook/assets/image%20%28284%29.png)
+![](../../.gitbook/assets/image%20%28289%29.png)
 
 在开放定址法中不能随便删除某个元素
 
 ### 1-2-拉链法
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
-![](../../.gitbook/assets/image%20%28323%29.png)
+![](../../.gitbook/assets/image%20%28330%29.png)
 
 ### 1-3-查找效率
 

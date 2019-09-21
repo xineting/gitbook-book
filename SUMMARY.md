@@ -78,6 +78,8 @@
     * [2-3-移位运算](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled-3.md)
     * [2-4-浮点数的表示](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled-2.md)
     * [2-5-浮点数的运算](ji-suan-ji-zu-cheng-yuan-li/untitled/untitled.md)
+    * [2-6-算术逻辑单元](ji-suan-ji-zu-cheng-yuan-li/untitled/26-suan-shu-luo-ji-dan-yuan.md)
+    * [题目](ji-suan-ji-zu-cheng-yuan-li/untitled/ti-mu.md)
 * [操作系统](cao-zuo-xi-tong/README.md)
   * [charter 1](cao-zuo-xi-tong/charter-1.md)
 * [计算机网络](ji-suan-ji-wang-luo/README.md)

@@ -16,13 +16,13 @@
 * 4.根结点只有右子树
 * 5.根结点既有左子树又有右子树
 
-![](../../.gitbook/assets/image%20%28321%29.png)
+![](../../.gitbook/assets/image%20%28327%29.png)
 
-![](../../.gitbook/assets/image%20%28223%29.png)
+![](../../.gitbook/assets/image%20%28227%29.png)
 
-![](../../.gitbook/assets/image%20%28234%29.png)
+![](../../.gitbook/assets/image%20%28238%29.png)
 
-![](../../.gitbook/assets/image%20%28211%29.png)
+![](../../.gitbook/assets/image%20%28215%29.png)
 
 
 

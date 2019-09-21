@@ -74,7 +74,7 @@ void Create_BST(BiTree &T,KeyType str[],int n){
 
 ### 查找效率\(ASL\)
 
-![](../../.gitbook/assets/image%20%28329%29.png)
+![](../../.gitbook/assets/image%20%28335%29.png)
 
 ## 平衡二叉树（AVL树）
 
@@ -98,7 +98,7 @@ N\[h\]=N\[h-1\]+N\[h-2\]+1
 
 ### 平衡二叉树的判断
 
-![](../../.gitbook/assets/image%20%28304%29.png)
+![](../../.gitbook/assets/image%20%28308%29.png)
 
 ```c
 void Judge_AVL(BiTree &bt,int &balance,int &h){
@@ -127,7 +127,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 先插入，再调整
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 #### LL平衡螺旋（右单螺旋）
 
@@ -136,7 +136,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 * 调整方法：右旋操作：将A的左孩子B代替A，将A结点称为B的右孩子，
 * B的原右子树作为A的左子树。
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 #### 
 
@@ -147,11 +147,11 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 * 调整方法：左旋操作：将A的右孩子B代替A，将A结点称为B的左孩子，
 * B的原左子树作为A的右子树。
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 例子：
 
-![](../../.gitbook/assets/image%20%28192%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 #### LR平衡旋转
 
@@ -159,7 +159,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 * 先左旋后右旋操作
 
-![](../../.gitbook/assets/image%20%28299%29.png)
+![](../../.gitbook/assets/image%20%28303%29.png)
 
 #### RL平衡旋转（原理相同）
 
@@ -167,7 +167,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 例子
 
-![](../../.gitbook/assets/image%20%28235%29.png)
+![](../../.gitbook/assets/image%20%28239%29.png)
 
 
 
@@ -195,7 +195,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 3. 哈夫曼树中没有结点的度为1
 4. n个叶子结点的哈夫曼树的结点总数为2n-1，其中度为2的结点数为n-1.
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/image%20%28108%29.png)
 
 ## 哈夫曼编码
 
@@ -205,5 +205,5 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 利用哈夫曼算法构造哈夫曼树，权值为每个字母出现的次数。
 
-![](../../.gitbook/assets/image%20%28139%29.png)
+![](../../.gitbook/assets/image%20%28142%29.png)
 

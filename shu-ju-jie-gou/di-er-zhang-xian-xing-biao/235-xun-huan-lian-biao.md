@@ -4,11 +4,11 @@
 
 > 循环单链表:循环单链表和单链表的区别在于，表中最后一个结点的指针不是NULL，而改为指向 头结点，从而整个链表形成一个环
 
-![](../../.gitbook/assets/image%20%28273%29.png)
+![](../../.gitbook/assets/image%20%28276%29.png)
 
 > **循环单链表的判空条件不是头结点的后继指针是否为空，而是它是否等于头指针**
 
-![](../../.gitbook/assets/image%20%28261%29.png)
+![](../../.gitbook/assets/image%20%28264%29.png)
 
 > 在单链表中访问最后一个结点需要O\(n\)时间，那有办法在O\(1\)的时间由链表指针访问到最后一个结点吗?
 
@@ -16,11 +16,11 @@
 
 
 
-![](../../.gitbook/assets/image%20%28137%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 > 当循环双链表为空表时，其头结点的prior域和next域都等于Head。
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![](../../.gitbook/assets/image%20%28219%29.png)
 
 ## 3-静态链表
 
@@ -53,5 +53,5 @@ typedef struct{          //静态链表结构类型的定义
 | 5 |  |  |
 | 6 | c | 3 |
 
-![](../../.gitbook/assets/image%20%28318%29.png)
+![](../../.gitbook/assets/image%20%28321%29.png)
 

@@ -2,7 +2,7 @@
 
 ## 1-ALU
 
-![](../../.gitbook/assets/image%20%28316%29.png)
+![](../../.gitbook/assets/image%20%28319%29.png)
 
 ## 2-一位全加器
 

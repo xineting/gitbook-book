@@ -6,9 +6,9 @@
 
 ## 2-进制的转换
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
-![](../../.gitbook/assets/image%20%28296%29.png)
+![](../../.gitbook/assets/image%20%28299%29.png)
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
@@ -18,7 +18,7 @@
 
 ## 3-BCD码
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28273%29.png)
 
 大于9的要加6修正。
 
@@ -28,11 +28,11 @@
 
 ## 4-字符和串
 
-![](../../.gitbook/assets/image%20%28178%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 ![](../../.gitbook/assets/image%20%28109%29.png)
 
-![](../../.gitbook/assets/image%20%28243%29.png)
+![](../../.gitbook/assets/image%20%28245%29.png)
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 
@@ -42,13 +42,13 @@
 
 ## 6-海明码
 
-![](../../.gitbook/assets/image%20%28331%29.png)
+![](../../.gitbook/assets/image%20%28334%29.png)
 
 ## 7-循环冗余校验码
 
-![](../../.gitbook/assets/image%20%28302%29.png)
+![](../../.gitbook/assets/image%20%28305%29.png)
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28132%29.png)
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
 

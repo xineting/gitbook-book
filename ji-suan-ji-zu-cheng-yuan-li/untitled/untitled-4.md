@@ -20,15 +20,15 @@
 
 ![](../../.gitbook/assets/image%20%2871%29.png)
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 ## 5-反码
 
 ![](../../.gitbook/assets/image%20%2899%29.png)
 
-![](../../.gitbook/assets/image%20%28232%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
-![](../../.gitbook/assets/image%20%28326%29.png)
+![](../../.gitbook/assets/image%20%28329%29.png)
 
 ![](../../.gitbook/assets/image%20%2856%29.png)
 

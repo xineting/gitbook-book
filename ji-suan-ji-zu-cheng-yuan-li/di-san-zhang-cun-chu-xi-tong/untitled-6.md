@@ -2,7 +2,7 @@
 
 ## 1-基本结构
 
-![](../../.gitbook/assets/image%20%28339%29.png)
+![](../../.gitbook/assets/image%20%28351%29.png)
 
 
 
@@ -17,7 +17,7 @@
 
 ## 2-SRAM和DRAM
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ## 3-DRAM的刷新
 
@@ -28,7 +28,7 @@
 
 ——为什么要用行列地址?
 
-![](../../.gitbook/assets/image%20%28141%29.png)
+![](../../.gitbook/assets/image%20%28147%29.png)
 
 3.如何刷新? 有硬件支持，读出一行的信息后重新写入，占用1个读/写周期
 
@@ -36,13 +36,13 @@
 
  假设DRAM内部结构排列成128×128的形式，读/写周期0.5us 2ms共 2ms/0.5us = 4000 个周期
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28204%29.png)
 
 ## 4-ROM
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28123%29.png)
 
-![](../../.gitbook/assets/image%20%28177%29.png)
+![](../../.gitbook/assets/image%20%28184%29.png)
 
 
 

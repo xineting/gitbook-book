@@ -2,7 +2,7 @@
 
 ## 1-浮点数的基本格式
 
-![](../../.gitbook/assets/image%20%28170%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 ## 2-浮点数的规格化
 
@@ -13,15 +13,15 @@
 * * 右规:当浮点数运算的结果尾数出现溢出\(双符号位为01或10\)时，
 * 将尾数右移一位，阶码加1\(基数为2时\)
 
-![](../../.gitbook/assets/image%20%28325%29.png)
+![](../../.gitbook/assets/image%20%28337%29.png)
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 ## 3-IEEE 754标准
 
-![](../../.gitbook/assets/image%20%28222%29.png)
+![](../../.gitbook/assets/image%20%28229%29.png)
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
-![](../../.gitbook/assets/image%20%28134%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 

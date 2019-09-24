@@ -4,7 +4,7 @@
 
 > 多路平衡查找树，B树中所有结点的孩子结点数的最大值称为B树的阶。
 
-![](../../.gitbook/assets/image%20%28298%29.png)
+![](../../.gitbook/assets/image%20%28309%29.png)
 
 一棵m阶B树或为**空树，**或为满足如下特性的m叉树:
 
@@ -14,9 +14,9 @@
 4. 所有的**叶结点都出现在同一层次上，并不带任何信息**
 5. 非叶结点的结构:
 
-![](../../.gitbook/assets/image%20%28302%29.png)
+![](../../.gitbook/assets/image%20%28313%29.png)
 
-![](../../.gitbook/assets/image%20%28226%29.png)
+![](../../.gitbook/assets/image%20%28233%29.png)
 
 ！！n个关键字，阶数为m，高度为h的B树，h计算。
 
@@ -34,7 +34,7 @@
 
 ### 删除
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 #### 终端结点的删除
 

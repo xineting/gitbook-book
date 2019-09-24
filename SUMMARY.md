@@ -83,7 +83,7 @@
   * [第三章-存储系统](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/README.md)
     * [3-1-基本概念](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/31-ji-ben-gai-nian.md)
     * [3-2-层次化结构](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/untitled-7.md)
-    * [Untitled](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/untitled-6.md)
+    * [3-3-半导体存储器](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/untitled-6.md)
     * [Untitled](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/untitled-5.md)
     * [Untitled](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/untitled-4.md)
     * [Untitled](ji-suan-ji-zu-cheng-yuan-li/di-san-zhang-cun-chu-xi-tong/untitled-3.md)

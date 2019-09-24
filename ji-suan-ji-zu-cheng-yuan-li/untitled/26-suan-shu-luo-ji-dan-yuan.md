@@ -2,17 +2,17 @@
 
 ## 1-ALU
 
-![](../../.gitbook/assets/image%20%28322%29.png)
+![](../../.gitbook/assets/image%20%28334%29.png)
 
 ## 2-一位全加器
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 ## 3-串行加法器
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 ## 4-并行加法器
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 

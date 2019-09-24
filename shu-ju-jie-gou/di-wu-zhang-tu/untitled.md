@@ -8,13 +8,13 @@
 >
 > \|V\| 表示图G中顶点的个数，也称图G的阶;\|E\| 表示图G中边的条数
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
  **图不能为空（定点不能空-边可空）**
 
 ### **5-1-2-有向图&&无向图**
 
-![](../../.gitbook/assets/image%20%28315%29.png)
+![](../../.gitbook/assets/image%20%28327%29.png)
 
 ### 5-1-3-简单图&&多重图
 
@@ -23,57 +23,57 @@
 * 无重复边（&lt;a,b&gt;,&lt;b,a&gt;是不重复的边）
 * 没有结点到自身的边
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 
 
 多重图
 
-![](../../.gitbook/assets/image%20%28275%29.png)
+![](../../.gitbook/assets/image%20%28285%29.png)
 
 
 
 ### 5-1-4-完全图
 
-![](../../.gitbook/assets/image%20%28260%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 
 
 ### 5-1-5-子图
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 ### 5-1-6-连通&&强连通
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28332%29.png)
 
 ### 5-1-7-连通图&&强连通图
 
-![](../../.gitbook/assets/image%20%28163%29.png)
+![](../../.gitbook/assets/image%20%28168%29.png)
 
 
 
 * 无向强连通图最少n-1个边
 * 有向强连通图最少n个边
 
-![](../../.gitbook/assets/image%20%28254%29.png)
+![](../../.gitbook/assets/image%20%28264%29.png)
 
 ### 5-1-8-连通分量&&强连通分量
 
 > 对于G的一个\(强\)连通子图G'，如果不存在G的另一个\(强\)连通子图G''，  
 >  使得 G' ⊂G'' ,则称G'为G的\(强\)连通分量。
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](../../.gitbook/assets/image%20%28122%29.png)
 
-![](../../.gitbook/assets/image%20%28329%29.png)
+![](../../.gitbook/assets/image%20%28341%29.png)
 
 * 原图为（强）连通图，则极大（强）连通子图为原图
 
 ### 5-1-9-生成树，生成森林
 
-![](../../.gitbook/assets/image%20%28231%29.png)
+![](../../.gitbook/assets/image%20%28240%29.png)
 
-![](../../.gitbook/assets/image%20%28209%29.png)
+![](../../.gitbook/assets/image%20%28216%29.png)
 
 
 
@@ -89,11 +89,11 @@
 
 ### 5-1-11-网
 
-![](../../.gitbook/assets/image%20%28159%29.png)
+![](../../.gitbook/assets/image%20%28164%29.png)
 
 ### 5-1-12-稠密数&稀疏树
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](../../.gitbook/assets/image%20%28114%29.png)
 
 
 
@@ -103,21 +103,21 @@
 
 
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 ### 5-1-14-路径
 
 > 图中顶点v到顶点w的顶点序列，序列中顶点不重复的路径称为简单路径。
 
-![](../../.gitbook/assets/image%20%28203%29.png)
+![](../../.gitbook/assets/image%20%28210%29.png)
 
 ### 5-1-15-路径长度
 
 > 路径上边的数目，若该路径最短则称其为距离。
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 ### 5-1-16-回路
 
-![](../../.gitbook/assets/image%20%28233%29.png)
+![](../../.gitbook/assets/image%20%28242%29.png)
 

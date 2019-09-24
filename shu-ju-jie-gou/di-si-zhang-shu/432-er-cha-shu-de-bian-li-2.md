@@ -7,13 +7,13 @@
 * 若无左子树，则将左指针指向前驱结点
 * 若无右子树，则将右指针指向后续结点
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28239%29.png)
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28180%29.png)
 
 ```c
 typedef struct ThreadNode{
@@ -48,7 +48,7 @@ void InThread (ThreadTree &p,ThreadTree &pre){//第一开始传入的pre为NULL
 }//跳出循环时pre指针为最右结点
 ```
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28239%29.png)
 
 ```cpp
 void CreateThread(ThreadTree T){

@@ -8,7 +8,7 @@
 
 ![](../../.gitbook/assets/image%20%28165%29.png)
 
-![](../../.gitbook/assets/image%20%28313%29.png)
+![](../../.gitbook/assets/image%20%28314%29.png)
 
 ![](../../.gitbook/assets/image%20%2869%29.png)
 
@@ -18,7 +18,7 @@
 
 ## 3-BCD码
 
-![](../../.gitbook/assets/image%20%28286%29.png)
+![](../../.gitbook/assets/image%20%28287%29.png)
 
 大于9的要加6修正。
 
@@ -32,7 +32,7 @@
 
 ![](../../.gitbook/assets/image%20%28112%29.png)
 
-![](../../.gitbook/assets/image%20%28258%29.png)
+![](../../.gitbook/assets/image%20%28259%29.png)
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 
@@ -42,11 +42,11 @@
 
 ## 6-海明码
 
-![](../../.gitbook/assets/image%20%28351%29.png)
+![](../../.gitbook/assets/image%20%28352%29.png)
 
 ## 7-循环冗余校验码
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28321%29.png)
 
 ![](../../.gitbook/assets/image%20%28138%29.png)
 

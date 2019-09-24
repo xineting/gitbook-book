@@ -16,7 +16,7 @@ typedef struct BiTNode{
 //二叉树结点结构
 ```
 
-![](../../.gitbook/assets/image%20%28248%29.png)
+![](../../.gitbook/assets/image%20%28249%29.png)
 
 含有n个结点的二叉链表中，有n+1个空链域。即2n-（n-1）。
 

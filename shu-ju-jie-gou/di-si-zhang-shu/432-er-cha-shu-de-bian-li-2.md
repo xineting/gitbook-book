@@ -9,7 +9,7 @@
 
 ![](../../.gitbook/assets/image%20%2825%29.png)
 
-![](../../.gitbook/assets/image%20%28239%29.png)
+![](../../.gitbook/assets/image%20%28240%29.png)
 
 ![](../../.gitbook/assets/image%20%2870%29.png)
 
@@ -48,7 +48,7 @@ void InThread (ThreadTree &p,ThreadTree &pre){//第一开始传入的pre为NULL
 }//跳出循环时pre指针为最右结点
 ```
 
-![](../../.gitbook/assets/image%20%28239%29.png)
+![](../../.gitbook/assets/image%20%28240%29.png)
 
 ```cpp
 void CreateThread(ThreadTree T){

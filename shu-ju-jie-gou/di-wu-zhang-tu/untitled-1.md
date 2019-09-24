@@ -18,7 +18,7 @@
 
 * 无向图
 
-![](../../.gitbook/assets/image%20%28274%29.png)
+![](../../.gitbook/assets/image%20%28275%29.png)
 
 关于对角对称
 
@@ -44,7 +44,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](../../.gitbook/assets/image%20%28312%29.png)
 
 ## 3-基本操作
 
@@ -63,15 +63,15 @@
 * FirstNeighbor\(G, x\)或图不存在x，则返回-1。
 * NextNeighbor\(G, x\) 假设图G中顶点y是顶点x的一个邻接点，返回除y之外顶点x的下一 个邻接点的顶点号，若y是x的最后一个邻接点，则返回-1。
 * 
-![](../../.gitbook/assets/image%20%28267%29.png)
+![](../../.gitbook/assets/image%20%28268%29.png)
 
 ## 4-十字链表
 
 > 有向图的一种链式存储结构
 
-![](../../.gitbook/assets/image%20%28282%29.png)
+![](../../.gitbook/assets/image%20%28283%29.png)
 
-![](../../.gitbook/assets/image%20%28256%29.png)
+![](../../.gitbook/assets/image%20%28257%29.png)
 
 ```c
 #define MaxVertexNum 100
@@ -94,7 +94,7 @@ typedef struct {
 
 > 无向图的一种链式存储结构
 
-![](../../.gitbook/assets/image%20%28310%29.png)
+![](../../.gitbook/assets/image%20%28311%29.png)
 
 ```c
 #define MaxVertexNum 100

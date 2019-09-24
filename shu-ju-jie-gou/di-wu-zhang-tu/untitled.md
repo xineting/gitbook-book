@@ -14,7 +14,7 @@
 
 ### **5-1-2-有向图&&无向图**
 
-![](../../.gitbook/assets/image%20%28327%29.png)
+![](../../.gitbook/assets/image%20%28328%29.png)
 
 ### 5-1-3-简单图&&多重图
 
@@ -29,13 +29,13 @@
 
 多重图
 
-![](../../.gitbook/assets/image%20%28285%29.png)
+![](../../.gitbook/assets/image%20%28286%29.png)
 
 
 
 ### 5-1-4-完全图
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28271%29.png)
 
 
 
@@ -45,7 +45,7 @@
 
 ### 5-1-6-连通&&强连通
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28333%29.png)
 
 ### 5-1-7-连通图&&强连通图
 
@@ -56,7 +56,7 @@
 * 无向强连通图最少n-1个边
 * 有向强连通图最少n个边
 
-![](../../.gitbook/assets/image%20%28264%29.png)
+![](../../.gitbook/assets/image%20%28265%29.png)
 
 ### 5-1-8-连通分量&&强连通分量
 
@@ -65,13 +65,13 @@
 
 ![](../../.gitbook/assets/image%20%28122%29.png)
 
-![](../../.gitbook/assets/image%20%28341%29.png)
+![](../../.gitbook/assets/image%20%28342%29.png)
 
 * 原图为（强）连通图，则极大（强）连通子图为原图
 
 ### 5-1-9-生成树，生成森林
 
-![](../../.gitbook/assets/image%20%28240%29.png)
+![](../../.gitbook/assets/image%20%28241%29.png)
 
 ![](../../.gitbook/assets/image%20%28216%29.png)
 
@@ -119,5 +119,5 @@
 
 ### 5-1-16-回路
 
-![](../../.gitbook/assets/image%20%28242%29.png)
+![](../../.gitbook/assets/image%20%28243%29.png)
 

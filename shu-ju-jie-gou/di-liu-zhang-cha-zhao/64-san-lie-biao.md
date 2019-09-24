@@ -18,7 +18,7 @@
 
 方法简单，不会产生冲突，若关键字分布不连续，则会浪费空间。
 
-![](../../.gitbook/assets/image%20%28335%29.png)
+![](../../.gitbook/assets/image%20%28336%29.png)
 
 方法并不常见
 
@@ -32,7 +32,7 @@
 
 ### 1-3-数字分析法
 
-![](../../.gitbook/assets/image%20%28259%29.png)
+![](../../.gitbook/assets/image%20%28260%29.png)
 
 适用于关键字已知的集合，若更换关键字则需要重新构造散列函数。
 
@@ -62,9 +62,9 @@
 
 ![](../../.gitbook/assets/image%20%2891%29.png)
 
-![](../../.gitbook/assets/image%20%28247%29.png)
+![](../../.gitbook/assets/image%20%28248%29.png)
 
-![](../../.gitbook/assets/image%20%28306%29.png)
+![](../../.gitbook/assets/image%20%28307%29.png)
 
 在开放定址法中不能随便删除某个元素
 
@@ -72,7 +72,7 @@
 
 ![](../../.gitbook/assets/image%20%28125%29.png)
 
-![](../../.gitbook/assets/image%20%28350%29.png)
+![](../../.gitbook/assets/image%20%28351%29.png)
 
 ### 1-3-查找效率
 

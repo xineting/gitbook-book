@@ -44,7 +44,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28323%29.png)
+![](../../.gitbook/assets/image%20%28324%29.png)
 
 ## 3-基本操作
 
@@ -94,7 +94,7 @@ typedef struct {
 
 > 无向图的一种链式存储结构
 
-![](../../.gitbook/assets/image%20%28322%29.png)
+![](../../.gitbook/assets/image%20%28323%29.png)
 
 ```c
 #define MaxVertexNum 100

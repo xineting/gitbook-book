@@ -43,7 +43,7 @@ O\(mn\)
 * 后缀：除第一个字符外，字符串的所有尾部子串 部分匹配值
 * 字符串前缀和后缀最长相等前后缀的长度
 * 
-![](../../.gitbook/assets/image%20%28346%29.png)
+![](../../.gitbook/assets/image%20%28347%29.png)
 
 ![](../../.gitbook/assets/image%20%28169%29.png)
 

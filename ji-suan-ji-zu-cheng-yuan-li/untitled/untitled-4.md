@@ -28,7 +28,7 @@
 
 ![](../../.gitbook/assets/image%20%28256%29.png)
 
-![](../../.gitbook/assets/image%20%28358%29.png)
+![](../../.gitbook/assets/image%20%28359%29.png)
 
 ![](../../.gitbook/assets/image%20%2862%29.png)
 

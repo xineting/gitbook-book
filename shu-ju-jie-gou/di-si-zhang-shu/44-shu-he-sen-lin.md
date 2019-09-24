@@ -26,7 +26,7 @@
 * 先从左到右，再访问根。
 * 与二叉树的中序遍历相同！！！
 * * 
-![](../../.gitbook/assets/image%20%28360%29.png)
+![](../../.gitbook/assets/image%20%28361%29.png)
 
 层次遍历
 
@@ -36,7 +36,7 @@
 
 ![](../../.gitbook/assets/image%20%2835%29.png)
 
-![](../../.gitbook/assets/image%20%28355%29.png)
+![](../../.gitbook/assets/image%20%28356%29.png)
 
 
 

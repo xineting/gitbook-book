@@ -66,7 +66,7 @@
 
 ![](../../.gitbook/assets/image%20%28303%29.png)
 
-![](../../.gitbook/assets/image%20%28352%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 ![](../../.gitbook/assets/image%20%28216%29.png)
 
@@ -82,13 +82,13 @@
 
 ![](../../.gitbook/assets/image%20%2884%29.png)
 
-![](../../.gitbook/assets/image%20%28307%29.png)
+![](../../.gitbook/assets/image%20%28308%29.png)
 
-![](../../.gitbook/assets/image%20%28350%29.png)
+![](../../.gitbook/assets/image%20%28351%29.png)
 
 > 稀疏矩阵:矩阵中元素个数s相对于矩阵中非0元素个数t来说非常多，即s远大于t的矩阵 如果采用常规的存储办法存储稀疏矩阵，会浪费大量的存储空间。所以只存储非0的元素，但是非0元素分布又没有规律，所以光存储元素是不够的，还需要存储它的行列下标值
 
 ![](../../.gitbook/assets/image%20%28185%29.png)
 
-![](../../.gitbook/assets/image%20%28371%29.png)
+![](../../.gitbook/assets/image%20%28372%29.png)
 

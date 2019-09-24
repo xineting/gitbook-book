@@ -14,7 +14,7 @@
 
 ### **5-1-2-有向图&&无向图**
 
-![](../../.gitbook/assets/image%20%28340%29.png)
+![](../../.gitbook/assets/image%20%28341%29.png)
 
 ### 5-1-3-简单图&&多重图
 
@@ -45,7 +45,7 @@
 
 ### 5-1-6-连通&&强连通
 
-![](../../.gitbook/assets/image%20%28345%29.png)
+![](../../.gitbook/assets/image%20%28346%29.png)
 
 ### 5-1-7-连通图&&强连通图
 
@@ -65,7 +65,7 @@
 
 ![](../../.gitbook/assets/image%20%28128%29.png)
 
-![](../../.gitbook/assets/image%20%28354%29.png)
+![](../../.gitbook/assets/image%20%28355%29.png)
 
 * 原图为（强）连通图，则极大（强）连通子图为原图
 

@@ -74,7 +74,7 @@ void Create_BST(BiTree &T,KeyType str[],int n){
 
 ### 查找效率\(ASL\)
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](../../.gitbook/assets/image%20%28369%29.png)
 
 ## 平衡二叉树（AVL树）
 
@@ -98,7 +98,7 @@ N\[h\]=N\[h-1\]+N\[h-2\]+1
 
 ### 平衡二叉树的判断
 
-![](../../.gitbook/assets/image%20%28339%29.png)
+![](../../.gitbook/assets/image%20%28340%29.png)
 
 ```c
 void Judge_AVL(BiTree &bt,int &balance,int &h){
@@ -159,7 +159,7 @@ void Judge_AVL(BiTree &bt,int &balance,int &h){
 
 * 先左旋后右旋操作
 
-![](../../.gitbook/assets/image%20%28334%29.png)
+![](../../.gitbook/assets/image%20%28335%29.png)
 
 #### RL平衡旋转（原理相同）
 

@@ -20,7 +20,7 @@
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28333%29.png)
 
 关键路径不一定只有1条，只有缩短包含在所有关键路径中的关键活动才能缩短工期！
 

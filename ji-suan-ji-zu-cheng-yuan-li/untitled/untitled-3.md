@@ -30,7 +30,7 @@
 
 ![](../../.gitbook/assets/image%20%28240%29.png)
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](../../.gitbook/assets/image%20%28312%29.png)
 
 ## 3-溢出判断
 

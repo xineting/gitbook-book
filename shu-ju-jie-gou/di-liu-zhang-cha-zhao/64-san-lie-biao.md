@@ -18,7 +18,7 @@
 
 方法简单，不会产生冲突，若关键字分布不连续，则会浪费空间。
 
-![](../../.gitbook/assets/image%20%28348%29.png)
+![](../../.gitbook/assets/image%20%28349%29.png)
 
 方法并不常见
 
@@ -64,7 +64,7 @@
 
 ![](../../.gitbook/assets/image%20%28257%29.png)
 
-![](../../.gitbook/assets/image%20%28318%29.png)
+![](../../.gitbook/assets/image%20%28319%29.png)
 
 在开放定址法中不能随便删除某个元素
 
@@ -72,7 +72,7 @@
 
 ![](../../.gitbook/assets/image%20%28131%29.png)
 
-![](../../.gitbook/assets/image%20%28363%29.png)
+![](../../.gitbook/assets/image%20%28364%29.png)
 
 ### 1-3-查找效率
 

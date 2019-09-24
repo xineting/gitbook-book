@@ -29,7 +29,7 @@
 
 **单模光纤与多模光纤**
 
-![](../../.gitbook/assets/image%20%28308%29.png)
+![](../../.gitbook/assets/image%20%28309%29.png)
 
 **区别**
 

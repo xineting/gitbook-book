@@ -14,7 +14,7 @@
 
 ![](../../.gitbook/assets/image%20%28109%29.png)
 
-![](../../.gitbook/assets/image%20%28316%29.png)
+![](../../.gitbook/assets/image%20%28317%29.png)
 
 ## 3-主存与cpu的连接例题
 
@@ -39,7 +39,7 @@
 用2片1K×4位RAM，位扩展 ->RAM地址线10根
 ```
 
-![](../../.gitbook/assets/image%20%28362%29.png)
+![](../../.gitbook/assets/image%20%28363%29.png)
 
 ## 4-主存容量的扩展
 
@@ -51,7 +51,7 @@
 
 ![](../../.gitbook/assets/image%20%28231%29.png)
 
-![](../../.gitbook/assets/image%20%28331%29.png)
+![](../../.gitbook/assets/image%20%28332%29.png)
 
 ![](../../.gitbook/assets/image%20%28138%29.png)
 

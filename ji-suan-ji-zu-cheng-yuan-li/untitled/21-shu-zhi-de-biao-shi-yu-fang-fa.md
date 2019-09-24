@@ -8,7 +8,7 @@
 
 ![](../../.gitbook/assets/image%20%28172%29.png)
 
-![](../../.gitbook/assets/image%20%28326%29.png)
+![](../../.gitbook/assets/image%20%28327%29.png)
 
 ![](../../.gitbook/assets/image%20%2873%29.png)
 
@@ -42,11 +42,11 @@
 
 ## 6-海明码
 
-![](../../.gitbook/assets/image%20%28364%29.png)
+![](../../.gitbook/assets/image%20%28365%29.png)
 
 ## 7-循环冗余校验码
 
-![](../../.gitbook/assets/image%20%28333%29.png)
+![](../../.gitbook/assets/image%20%28334%29.png)
 
 ![](../../.gitbook/assets/image%20%28144%29.png)
 

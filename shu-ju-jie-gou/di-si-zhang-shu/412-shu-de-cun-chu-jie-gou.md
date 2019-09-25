@@ -33,7 +33,7 @@ typedef struct {
 }Tree;                   
 ```
 
-![](../../.gitbook/assets/image%20%28288%29.png)
+![](../../.gitbook/assets/image%20%28293%29.png)
 
 
 

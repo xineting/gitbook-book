@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28203%29.png)
+![](../../.gitbook/assets/image%20%28208%29.png)
 
 ## 1-内核态 v.s. 用户态
 
@@ -25,11 +25,11 @@ CPU 有两种状态，
 
 ## 2-中断和异常
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 “中断”是让操作系统内核夺回CPU使用权的唯一途径，如果没有“中断”机制，那么一旦应用程序上CPU运行，CPU就会一直运行这个应用程序
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 ### 2-1-内中断
 
@@ -41,9 +41,9 @@ CPU 有两种状态，
 
 时钟中断——由时钟部件发来的中断信号
 
-![](../../.gitbook/assets/image%20%28277%29.png)
+![](../../.gitbook/assets/image%20%28282%29.png)
 
-![](../../.gitbook/assets/image%20%28356%29.png)
+![](../../.gitbook/assets/image%20%28362%29.png)
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28187%29.png)
 

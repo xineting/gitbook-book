@@ -8,7 +8,7 @@
 
 ![page41image60953264](blob:https://app.gitbook.com/fa861d93-670a-45e2-a0b2-e2995685de81)
 
-![](../../.gitbook/assets/image%20%28319%29.png)
+![](../../.gitbook/assets/image%20%28324%29.png)
 
 ## 2-逻辑移位
 
@@ -17,9 +17,9 @@
 * 逻辑移位逻辑左移时，高位移丢，低位添0;
 * 逻辑右移时，低位移丢，高位添0
 * 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 ## 4-加减运算
 
@@ -28,17 +28,17 @@
 1. 转化为x+y的形式
 2. 计算\[x\]补+\[y\]补
 
-![](../../.gitbook/assets/image%20%28259%29.png)
+![](../../.gitbook/assets/image%20%28264%29.png)
 
-![](../../.gitbook/assets/image%20%28337%29.png)
+![](../../.gitbook/assets/image%20%28342%29.png)
 
 ## 3-溢出判断
 
-![](../../.gitbook/assets/image%20%28120%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28156%29.png)
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 ## 4-▶乘法运算
 

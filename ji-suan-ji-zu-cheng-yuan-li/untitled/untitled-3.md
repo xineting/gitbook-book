@@ -8,7 +8,7 @@
 
 ![page41image60953264](blob:https://app.gitbook.com/fa861d93-670a-45e2-a0b2-e2995685de81)
 
-![](../../.gitbook/assets/image%20%28316%29.png)
+![](../../.gitbook/assets/image%20%28319%29.png)
 
 ## 2-逻辑移位
 
@@ -28,9 +28,9 @@
 1. 转化为x+y的形式
 2. 计算\[x\]补+\[y\]补
 
-![](../../.gitbook/assets/image%20%28257%29.png)
+![](../../.gitbook/assets/image%20%28259%29.png)
 
-![](../../.gitbook/assets/image%20%28334%29.png)
+![](../../.gitbook/assets/image%20%28337%29.png)
 
 ## 3-溢出判断
 

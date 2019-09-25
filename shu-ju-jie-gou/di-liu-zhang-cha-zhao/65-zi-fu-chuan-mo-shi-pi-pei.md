@@ -43,9 +43,9 @@ O\(mn\)
 * 后缀：除第一个字符外，字符串的所有尾部子串 部分匹配值
 * 字符串前缀和后缀最长相等前后缀的长度
 * 
-![](../../.gitbook/assets/image%20%28370%29.png)
+![](../../.gitbook/assets/image%20%28374%29.png)
 
-![](../../.gitbook/assets/image%20%28180%29.png)
+![](../../.gitbook/assets/image%20%28181%29.png)
 
 ### 3-1-next数组构建方式
 

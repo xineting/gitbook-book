@@ -26,7 +26,7 @@ path[] : 记录从最短路径中顶点的前驱顶点，即path[i]为v到vi最�
 * 
 ![](../../.gitbook/assets/image%20%2862%29.png)
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28174%29.png)
 
 
 
@@ -34,7 +34,7 @@ path[] : 记录从最短路径中顶点的前驱顶点，即path[i]为v到vi最�
 
 ### Floyd算法
 
-![](../../.gitbook/assets/image%20%28347%29.png)
+![](../../.gitbook/assets/image%20%28350%29.png)
 
 ![](../../.gitbook/assets/image%20%2887%29.png)
 

@@ -13,11 +13,11 @@
 
 树的叶子结点又叫终端结点！
 
-![](../../.gitbook/assets/image%20%28157%29.png)
-
 ![](../../.gitbook/assets/image%20%28158%29.png)
 
-![](../../.gitbook/assets/image%20%28243%29.png)
+![](../../.gitbook/assets/image%20%28159%29.png)
+
+![](../../.gitbook/assets/image%20%28245%29.png)
 
 ## 树的性质
 

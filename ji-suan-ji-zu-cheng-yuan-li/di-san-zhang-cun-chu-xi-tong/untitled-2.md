@@ -20,7 +20,7 @@
 
 ## 2-性能分析
 
-![](../../.gitbook/assets/image%20%28327%29.png)
+![](../../.gitbook/assets/image%20%28330%29.png)
 
 ## 3-cache工作原理
 
@@ -32,17 +32,17 @@
 
 ### 直接映射
 
-![](../../.gitbook/assets/image%20%28296%29.png)
+![](../../.gitbook/assets/image%20%28299%29.png)
 
 ### 全相联映射
 
-![](../../.gitbook/assets/image%20%28263%29.png)
+![](../../.gitbook/assets/image%20%28265%29.png)
 
 ### 组相联映射
 
 ![](../../.gitbook/assets/image%20%2895%29.png)
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28176%29.png)
 
 
 
@@ -62,7 +62,7 @@
 * 写分配法：把主存中的块调入Cache，在Cache中修改。搭配写回法使用。
 * 非写分配法：只写入主存，不调入Cache。 搭配全写法使用。
 * 
-![](../../.gitbook/assets/image%20%28328%29.png)
+![](../../.gitbook/assets/image%20%28331%29.png)
 
 ## 7-虚拟存储器
 

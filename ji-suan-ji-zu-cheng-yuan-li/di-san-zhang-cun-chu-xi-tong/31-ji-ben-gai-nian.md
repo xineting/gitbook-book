@@ -2,7 +2,7 @@
 
 ## 一-分类
 
-![](../../.gitbook/assets/image%20%28304%29.png)
+![](../../.gitbook/assets/image%20%28307%29.png)
 
 ## 2-性能指标
 

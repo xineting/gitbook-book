@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28201%29.png)
+![](../../.gitbook/assets/image%20%28203%29.png)
 
 ## 1-内核态 v.s. 用户态
 
@@ -41,5 +41,9 @@ CPU 有两种状态，
 
 时钟中断——由时钟部件发来的中断信号
 
+![](../../.gitbook/assets/image%20%28277%29.png)
 
+![](../../.gitbook/assets/image%20%28356%29.png)
+
+![](../../.gitbook/assets/image%20%28182%29.png)
 

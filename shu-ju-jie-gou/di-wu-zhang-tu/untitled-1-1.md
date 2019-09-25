@@ -13,7 +13,7 @@
 
 队列+辅助标记数组
 
-![](../../.gitbook/assets/image%20%2894%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 ```c
 bool visit(MAX_TREE_SIZE);

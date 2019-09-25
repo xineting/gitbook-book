@@ -19,24 +19,24 @@
 * 先根，再从左到右访问每棵子树。
 * 与对应二叉树的访问次序一样！！
 * 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 后根遍历
 
 * 先从左到右，再访问根。
 * 与二叉树的中序遍历相同！！！
 * * 
-![](../../.gitbook/assets/image%20%28361%29.png)
+![](../../.gitbook/assets/image%20%28382%29.png)
 
 层次遍历
 
 ### 森林的遍历
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28114%29.png)
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
-![](../../.gitbook/assets/image%20%28356%29.png)
+![](../../.gitbook/assets/image%20%28376%29.png)
 
 
 

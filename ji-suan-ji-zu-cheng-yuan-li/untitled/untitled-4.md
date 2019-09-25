@@ -6,29 +6,29 @@
 
 ## 2-有符号数
 
-![](../../.gitbook/assets/image%20%28107%29.png)
+![](../../.gitbook/assets/image%20%28111%29.png)
 
 ## 3-原码
 
 > 约定:用X表示真值，用\[X\]原表示原码，\[X\]补表示补码，\[X\]反表示反码，\[X\]移表示移码。 假设字长为8位\(符号位+数值位\)，最高位为符号位
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 ## 4-补码
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
-![](../../.gitbook/assets/image%20%28158%29.png)
+![](../../.gitbook/assets/image%20%28165%29.png)
 
 ## 5-反码
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28110%29.png)
 
-![](../../.gitbook/assets/image%20%28256%29.png)
+![](../../.gitbook/assets/image%20%28271%29.png)
 
-![](../../.gitbook/assets/image%20%28359%29.png)
+![](../../.gitbook/assets/image%20%28380%29.png)
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 

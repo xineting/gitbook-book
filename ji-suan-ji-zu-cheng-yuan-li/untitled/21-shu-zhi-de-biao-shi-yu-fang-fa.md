@@ -6,49 +6,49 @@
 
 ## 2-进制的转换
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
-![](../../.gitbook/assets/image%20%28346%29.png)
+![](../../.gitbook/assets/image%20%28349%29.png)
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 
 
 ## 3-BCD码
 
-![](../../.gitbook/assets/image%20%28316%29.png)
+![](../../.gitbook/assets/image%20%28319%29.png)
 
 大于9的要加6修正。
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28150%29.png)
 
 ## 4-字符和串
 
-![](../../.gitbook/assets/image%20%28205%29.png)
+![](../../.gitbook/assets/image%20%28208%29.png)
 
-![](../../.gitbook/assets/image%20%28122%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
-![](../../.gitbook/assets/image%20%28283%29.png)
+![](../../.gitbook/assets/image%20%28286%29.png)
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
 ## 5-校验原理，奇偶校验码
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 ## 6-海明码
 
-![](../../.gitbook/assets/image%20%28386%29.png)
+![](../../.gitbook/assets/image%20%28389%29.png)
 
 ## 7-循环冗余校验码
 
-![](../../.gitbook/assets/image%20%28353%29.png)
+![](../../.gitbook/assets/image%20%28356%29.png)
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 

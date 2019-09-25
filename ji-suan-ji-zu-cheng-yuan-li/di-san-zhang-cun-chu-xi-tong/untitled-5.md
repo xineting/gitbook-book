@@ -12,9 +12,9 @@
 
 ## 2-主存地址分配
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28115%29.png)
 
-![](../../.gitbook/assets/image%20%28336%29.png)
+![](../../.gitbook/assets/image%20%28339%29.png)
 
 ## 3-主存与cpu的连接例题
 
@@ -39,23 +39,23 @@
 用2片1K×4位RAM，位扩展 ->RAM地址线10根
 ```
 
-![](../../.gitbook/assets/image%20%28384%29.png)
+![](../../.gitbook/assets/image%20%28387%29.png)
 
 ## 4-主存容量的扩展
 
 ### 4-1-位扩展
 
-![](../../.gitbook/assets/image%20%28274%29.png)
+![](../../.gitbook/assets/image%20%28277%29.png)
 
 ### 4-2-字拓展
 
-![](../../.gitbook/assets/image%20%28245%29.png)
+![](../../.gitbook/assets/image%20%28248%29.png)
 
-![](../../.gitbook/assets/image%20%28351%29.png)
+![](../../.gitbook/assets/image%20%28354%29.png)
 
-![](../../.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28147%29.png)
 
 #### 4-3-字位同时扩展
 
-![](../../.gitbook/assets/image%20%28262%29.png)
+![](../../.gitbook/assets/image%20%28265%29.png)
 

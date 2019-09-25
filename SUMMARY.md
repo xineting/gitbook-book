@@ -113,7 +113,7 @@
     * [1-1-操作系统的概念功能和目标](cao-zuo-xi-tong/charter-1/11-cao-zuo-xi-tong-de-gai-nian-gong-neng-he-mu-biao.md)
     * [1-2-操作系统的特征](cao-zuo-xi-tong/charter-1/untitled-5.md)
     * [1-3-操作系统的发展与分类](cao-zuo-xi-tong/charter-1/untitled-4.md)
-    * [Untitled](cao-zuo-xi-tong/charter-1/untitled-3.md)
+    * [1-4-操作系统的运行机制](cao-zuo-xi-tong/charter-1/untitled-3.md)
     * [Untitled](cao-zuo-xi-tong/charter-1/untitled-2.md)
     * [Untitled](cao-zuo-xi-tong/charter-1/untitled.md)
 * [Untitled](untitled-1.md)

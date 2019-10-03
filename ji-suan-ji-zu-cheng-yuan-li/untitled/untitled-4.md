@@ -6,7 +6,7 @@
 
 ## 2-有符号数
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 
 ## 3-原码
 
@@ -14,21 +14,21 @@
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 ## 4-补码
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 ## 5-反码
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28117%29.png)
 
-![](../../.gitbook/assets/image%20%28281%29.png)
+![](../../.gitbook/assets/image%20%28285%29.png)
 
-![](../../.gitbook/assets/image%20%28394%29.png)
+![](../../.gitbook/assets/image%20%28400%29.png)
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 

@@ -18,7 +18,7 @@
 
 ## 2-共享
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 互斥共享方式:使用QQ和微信视频。同一时间段内摄像头只能分配给其中一个进程。 
 
@@ -26,7 +26,7 @@
 
 ### 并发和共享的关系
 
-![](../../.gitbook/assets/image%20%28265%29.png)
+![](../../.gitbook/assets/image%20%28269%29.png)
 
 ## 3-虚拟
 

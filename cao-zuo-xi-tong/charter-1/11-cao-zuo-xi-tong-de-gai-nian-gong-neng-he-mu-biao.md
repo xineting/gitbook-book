@@ -4,12 +4,12 @@
 
 > 控制管理整个计算机系统的硬件和软件资源并合理地组织调 度计算机的工作和资源的分配;以提供给用户和其他软件方便的接口和环境;它是计算机系统中最基本的 **系统软件。**
 
-![](../../.gitbook/assets/image%20%28406%29.png)
+![](../../.gitbook/assets/image%20%28412%29.png)
 
   
 
 
-![](../../.gitbook/assets/image%20%28193%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
-![](../../.gitbook/assets/image%20%28372%29.png)
+![](../../.gitbook/assets/image%20%28378%29.png)
 

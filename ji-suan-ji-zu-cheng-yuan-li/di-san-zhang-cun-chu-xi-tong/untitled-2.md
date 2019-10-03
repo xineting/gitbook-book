@@ -5,7 +5,7 @@
 * 时间局部性:在最近的未来要用到的信息，很可能是现 在正在使用的信息 
 * 空间局部性:在最近的未来要用到的信息\(指令和数据\)， 很可能与现在正在使用的信息在存储空间上是邻近的
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28125%29.png)
 
 
 
@@ -20,7 +20,7 @@
 
 ## 2-性能分析
 
-![](../../.gitbook/assets/image%20%28335%29.png)
+![](../../.gitbook/assets/image%20%28341%29.png)
 
 ## 3-cache工作原理
 
@@ -32,17 +32,17 @@
 
 ### 直接映射
 
-![](../../.gitbook/assets/image%20%28304%29.png)
+![](../../.gitbook/assets/image%20%28309%29.png)
 
 ### 全相联映射
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28274%29.png)
 
 ### 组相联映射
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 
 
@@ -62,7 +62,7 @@
 * 写分配法：把主存中的块调入Cache，在Cache中修改。搭配写回法使用。
 * 非写分配法：只写入主存，不调入Cache。 搭配全写法使用。
 * 
-![](../../.gitbook/assets/image%20%28336%29.png)
+![](../../.gitbook/assets/image%20%28342%29.png)
 
 ## 7-虚拟存储器
 

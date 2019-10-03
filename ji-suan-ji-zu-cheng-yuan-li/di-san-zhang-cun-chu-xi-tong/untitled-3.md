@@ -1,6 +1,6 @@
 # 3-6-多模块存储器
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 ![](../../.gitbook/assets/image%20%2838%29.png)
 

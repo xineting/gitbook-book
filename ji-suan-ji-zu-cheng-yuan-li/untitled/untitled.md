@@ -2,9 +2,9 @@
 
 ## 1-浮点数的加减运算
 
-![](../../.gitbook/assets/image%20%28232%29.png)
+![](../../.gitbook/assets/image%20%28236%29.png)
 
 ## 2-强制类型转换
 
-![](../../.gitbook/assets/image%20%28391%29.png)
+![](../../.gitbook/assets/image%20%28397%29.png)
 

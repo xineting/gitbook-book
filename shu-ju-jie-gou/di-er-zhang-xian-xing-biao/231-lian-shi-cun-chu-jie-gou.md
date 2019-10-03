@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28308%29.png)
+![](../../.gitbook/assets/image%20%28313%29.png)
 
 因为每个结点只有一个指针指向下一个结点，故又称单链表
 

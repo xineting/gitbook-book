@@ -1,6 +1,6 @@
 # 1-3-操作系统的发展与分类
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
 * 手工操作阶段：
   * 主要缺点:用户独占全机、人机速度矛盾导致资源利用率极低
@@ -13,7 +13,7 @@
 * 实时操作系统。
   * 主要优点:能够优先响应一些紧急任务，某些紧急任务不需时间片排队。
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
-![](../../.gitbook/assets/image%20%28299%29.png)
+![](../../.gitbook/assets/image%20%28304%29.png)
 
